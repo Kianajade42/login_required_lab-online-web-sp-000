@@ -1,4 +1,4 @@
 class SessionsController < ApplicationController
-  def new
+  def current_user
   end
 end
